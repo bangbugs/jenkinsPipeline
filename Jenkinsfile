@@ -1,5 +1,5 @@
 node {
   stage("Echo Branch"){
-    sh "Develop Branch"
+    sh "echo 'Develop Branch'"
   }
 }
